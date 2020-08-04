@@ -1,0 +1,10 @@
+[package]
+name = "serde-object-assistant-extra"
+version = "0.0.0-dev"
+authors = ["Tamme Schichler <tamme@schichler.dev>"]
+edition = "2018"
+publish = false
+
+[dependencies]
+linkme = "0.2.2"
+serde = "1.0.114"
