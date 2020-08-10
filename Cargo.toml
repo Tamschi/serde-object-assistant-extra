@@ -7,4 +7,3 @@ publish = false
 
 [dependencies]
 linkme = "0.2.2"
-serde = "1.0.114"
